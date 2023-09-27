@@ -1,1 +1,2 @@
  Iam on my way to passing the CISCO DEVACS exam
+ I am beginning to understand Git!
